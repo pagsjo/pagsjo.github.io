@@ -11,17 +11,19 @@
           {%- if site.email -%}
           <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
           {%- endif -%}
-          <br>
-          <li class="p-name">
-            {%- if site.credit -%}
-              {{ site.credit | escape }}
-            {%- endif -%}
-            </li>
+          {%- include social.html -%}
         </ul>
       </div>
 
       <div class="footer-col footer-col-2">
-        {%- include social.html -%}
+      </div>
+
+      <div class="footer-col footer-col-3">
+        {%- if site.credit -%}
+          {{ site.copyright | escape }}
+        {%- endif -%}
+        <br>
+        <p>Powered by <a href="https://jekyllrb.com">Jekyll</a></p>
       </div>
     </div>
 
