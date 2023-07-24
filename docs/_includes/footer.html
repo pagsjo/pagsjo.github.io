@@ -1,32 +1,28 @@
 <footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+	<data class="u-url" href="{{ "/" | relative_url }}"></data>
 
-  <div class="wrapper">
+	<div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+		<h2 class="footer-heading">{{ site.title | escape }}</h2>
+		
+		<div class="footer-col-wrapper">
+			<div class="footer-col footer-col-1">
+				<img src="/assets/Logo_Fisk_Circle.png" alt="Handritad fisk med ben" width="100">
+			</div>
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          {%- if site.email -%}
-          <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          {%- endif -%}
-          {%- include social.html -%}
-        </ul>
-      </div>
+			<div class="footer-col footer-col-2">
+				<ul class="contact-list">
+					{%- if site.email -%}
+					<li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+					{%- endif -%}
+					{%- include social.html -%}
+					</ul>
+			</div>
 
-      <div class="footer-col footer-col-2">
-      </div>
-
-      <div class="footer-col footer-col-3">
-        {%- if site.credit -%}
-          {{ site.copyright | escape }}
-        {%- endif -%}
-        <br>
-        <p>Powered by <a href="https://jekyllrb.com">Jekyll</a></p>
-      </div>
-    </div>
-
-  </div>
+			<div class="footer-col footer-col-3">
+				<p>Powered by <a href="https://jekyllrb.com">Jekyll</a></p>
+			</div>
+		</div>
+	</div>
 
 </footer>

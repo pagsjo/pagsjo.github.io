@@ -1,32 +1,7 @@
 ---
 layout: page
-#title: Portfolio
+title: Musik och annat
 permalink: /portfolio/
 ---
 
-Här hittar du min musik och andra projekt jag jobbat med.
-
-<br>
-
-## Musik
-# NEON
-![NEON Cover](/assets/NEON.png){: width="250"}
-
-Lyssna: [:musical_note::headphones:](about:blank)
-
-<br>
-
-# Verkligt/Overkligt
-![NEON Cover](/assets/VerkligtOverkligt.png){: width="250"}
-
-Lyssna: [:musical_note::headphones:](about:blank) &ensp; Titta: [:tv::film_projector:](about:blank)
-
-<br>
-
-## Samarbeten
-# Stereobänk
-![Stereobänk Annons](/assets/stereobänk_annons_A.jpg/){: width="250" }
-
-Jag skapade demovideon till Sedgelakes Stereobänk-plugin.
-
-Videon och pluggen finns på [sedgelake.com](https://sedgelake.com/products/stereobank)
+Här var det tomt! Kika in om ett tag så kommer du kunna hitta min musik och annat jag jobbat med här.
