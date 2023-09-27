@@ -9,7 +9,7 @@ Här hittar du min musik och annat jag jobbat med.
 
 ## Musik
 
-[![Neon Cover](/assets/neon.png){:width="150"}](/portfolio/neon)
+Ingen musik ännu! Följ [@pontusmusik](https://www.instagram.com/pontusmusik) på Instagram.
 
 <br>
 
