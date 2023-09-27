@@ -15,4 +15,4 @@ Ingen musik ännu! Följ [@pontusmusik](https://www.instagram.com/pontusmusik) p
 
 ## Annat
 
-[![Stereobänk Annons A](../assets/stereobank_annons_A.jpg){:width="150"}](/portfolio/sedgelake)
+[![Stereobänk Annons A](/assets/stereobank_annons_A.jpg){:width="150"}](/portfolio/sedgelake)
