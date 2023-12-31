@@ -9,7 +9,7 @@ Här hittar du min musik och annat jag jobbat med.
 
 ## Musik
 
-[![Neon Cover](/assets/neon.png){:width="150"}](/portfolio/neon)
+[![Neon Cover](/assets/NEON.png){:width="150"}](/portfolio/neon)
 
 <br>
 
