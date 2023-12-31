@@ -9,10 +9,11 @@ Här hittar du min musik och annat jag jobbat med.
 
 ## Musik
 
-Ingen musik ännu! Följ [@pontusmusik](https://www.instagram.com/pontusmusik) på Instagram.
+[![Neon Cover](/assets/neon.png){:width="150"}](/portfolio/neon)
 
 <br>
 
 ## Annat
 
 [![Stereobänk Annons A](/assets/stereobank_annons_A.jpg){:width="150"}](/portfolio/sedgelake)
+[![NEON Live 2021 Thumbnail](/assets/neonlivethumb.jpg){:width="150"}](/portfolio/neonlive)
