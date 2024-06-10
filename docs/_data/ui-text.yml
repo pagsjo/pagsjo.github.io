@@ -1,0 +1,115 @@
+# User interface text and labels
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  skip_links                 : "Skip links"
+  skip_primary_nav           : "Skip to primary navigation"
+  skip_content               : "Skip to content"
+  skip_footer                : "Skip to footer"
+  page                       : "Page"
+  pagination_previous        : "Previous"
+  pagination_next            : "Next"
+  breadcrumb_home_label      : "Home"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Toggle menu"
+  search_label               : "Toggle search"
+  toc_label                  : "On this page"
+  ext_link_label             : "Direct link"
+  less_than                  : "less than"
+  minute_read                : "minute read"
+  share_on_label             : "Share on"
+  meta_label                 :
+  tags_label                 : "Tags:"
+  categories_label           : "Categories:"
+  date_label                 : "Updated:"
+  comments_label             : "Leave a comment"
+  comments_title             : "Comments"
+  more_label                 : "Learn more"
+  related_label              : "You may also enjoy"
+  follow_label               : "Follow:"
+  feed_label                 : "Feed"
+  powered_by                 : "Powered by"
+  website_label              : "Website"
+  email_label                : "Email"
+  recent_posts               : "Recent posts"
+  undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
+  comment_form_info          : "Your email address will not be published. Required fields are marked"
+  comment_form_comment_label : "Comment"
+  comment_form_md_info       : "Markdown is supported."
+  comment_form_name_label    : "Name"
+  comment_form_email_label   : "Email address"
+  comment_form_website_label : "Website (optional)"
+  comment_btn_submit         : "Submit comment"
+  comment_btn_submitted      : "Submitted"
+  comment_success_msg        : "Thanks for your comment! It will show on the site once it has been approved."
+  comment_error_msg          : "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again."
+  loading_label              : "Loading..."
+  search_label_text          : "Enter your search term..."
+  search_placeholder_text    : "Enter your search term..."
+  search_algolia_no_results  : "No results"
+  results_found              : "Result(s) found"
+  back_to_top                : "Back to top"
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
+
+# Swedish
+# -------
+sv: &DEFAULT_SV
+  skip_links                 : "Hoppa över länkar"
+  skip_primary_nav           : "Hoppa till navigering"
+  skip_content               : "Hoppa till innehåll"
+  skip_footer                : "Hoppa till slutet"
+  page                       : "Sida"
+  pagination_previous        : "Föregående"
+  pagination_next            : "Nästa"
+  breadcrumb_home_label      : "Hem"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Meny"
+  search_label               : "Sök"
+  toc_label                  : "På denna sida"
+  ext_link_label             : "Direktlänk"
+  less_than                  : "mindre än"
+  minute_read                : "minuter läsning"
+  share_on_label             : "Dela på"
+  meta_label                 :
+  tags_label                 : "Taggar:"
+  categories_label           : "Kategorier:"
+  date_label                 : "Uppdaterad:"
+  comments_label             : "Lämna en kommentar"
+  comments_title             : "Kommentarer"
+  more_label                 : "Läs mer"
+  related_label              : "Relaterat"
+  follow_label               : "Följ:"
+  feed_label                 : "Flöde"
+  powered_by                 : "Skapad med"
+  website_label              : "Hemsida"
+  email_label                : "Epost"
+  recent_posts               : "Nya inlägg"
+  undefined_wpm              : "Okänd parameter words_per_minute i _config.yml"
+  comment_form_info          : "Din epost-adress kommer inte att publiceras. Nödvändiga fält är markerade."
+  comment_form_comment_label : "Kommentera"
+  comment_form_md_info       : "Markdown stödjs."
+  comment_form_name_label    : "Namn"
+  comment_form_email_label   : "Epost-adress"
+  comment_form_website_label : "Hemsida (valbar)"
+  comment_btn_submit         : "Lämna kommentar"
+  comment_btn_submitted      : "Lämnad"
+  comment_success_msg        : "Tack för din kommentar! Den kommer visas när den godkänts."
+  comment_error_msg          : "Någonting gick fel. Se till att alla nödvändiga fält är ifyllda och försök igen."
+  loading_label              : "Laddar..."
+  search_label_text          : "Sök..."
+  search_placeholder_text    : "Sök..."
+  search_algolia_no_results  : "Inga resultat"
+  results_found              : "Resultat"
+  back_to_top                : "Tillbaka till toppen"
+sv-SE:
+  <<: *DEFAULT_SV
+sv-FI:
+  <<: *DEFAULT_SV
