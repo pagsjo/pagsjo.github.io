@@ -7,7 +7,7 @@ header:
   teaser: /assets/verkligtoverkligt.png
 excerpt: "Musiken från min examenskonsert"
 ---
-![Verkligt/Overkligt Omslag](/assets/verkligtoverkligt.png){:width="300"}<br>
+![Verkligt/Overkligt Omslag](../assets/verkligtoverkligt.png){:width="300"}<br>
     [Spotify ](https://open.spotify.com/album/3CZOGd4iHoArYD18gGrOqY)|[ Apple music ](https://music.apple.com/se/album/verkligt-overkligt-single/1742829110)|[ Tidal](https://listen.tidal.com/album/359277330)
 
 Verkligt/Overkligt var min examnenskonsert på KMH. Hela setlisten inkluderade förutom min musik två covers, av Tears for Fears *Everybody wants to rule the world* och bob hunds *Det överexponerade gömstället*, men de finns inte med här.
