@@ -14,7 +14,7 @@ Jag har lärarlegitimation och är behörig att undervisa i musik och kringligga
 
 ### Stockholms Estetiska Gymnasium
 *November 2023*<br>
-* Ett kortvarit vikariat i gehörs- och musiklära och ensemble.
+* Ett kortvarigt vikariat i gehörs- och musiklära och ensemble.
 
 ### Naturhistoriska Riksmuseet
 *Juni 2020-December 2023*<br>
