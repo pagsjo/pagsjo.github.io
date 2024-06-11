@@ -18,7 +18,7 @@ Jag har lärarlegitimation och är behörig att undervisa i musik och kringligga
 
 ### Naturhistoriska Riksmuseet
 *Juni 2020-December 2023*<br>
-* Jag jobbade som timanställd museivärd och aktivitetsledare. Jag tog emot besökare till utställningarna, sålde biljetter, bemannade butiken och information och höll visningar om djur och natur i olika utforminingar. Jag jobbade även i "Labbet", där besökare i mindre grupper fick komma närmre museets forskning och pröva på aktiviteter kopplade till ett tema.
+* Jag jobbade som timanställd museivärd och aktivitetsledare. Jag tog emot besökare till utställningarna, sålde biljetter, bemannade butiken och information och höll visningar om djur och natur i olika utformningar. Jag jobbade även i "Labbet", där besökare i mindre grupper fick komma närmre museets forskning och pröva på aktiviteter kopplade till ett tema.
 
 ### Tekniska museet
 *December 2016-Februari 2020*<br>
