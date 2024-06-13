@@ -1,5 +1,5 @@
 ---
-title: "Pontus Agsjö"
+title: ""
 layout: splash
 
 header:
@@ -7,8 +7,14 @@ header:
   overlay_filter: "0.75"
   overlay_image: ../assets/logo_fisk_banner.png
   actions:
-    - label: "Läs mer"
+    - label: "CV"
       url: "/CV/"
+    - label: "Musik"
+      url: "/musik/"
+    - label: "Uppdrag"
+      url: "/uppdrag/"
+    - label: "Kontakt"
+      url: "/kontakt/"
 excerpt: "Musiker, musiklärare och musikproducent. <br> Har ett vasst öra och en kärlek för bråkiga instrument. <br> Bra på tekno, rock, pop och experimentell musik. <br> Sjunger och spelar keyboard, bas, gitarr och trummor."
 
 feature_row:
