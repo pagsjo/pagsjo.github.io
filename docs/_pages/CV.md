@@ -8,8 +8,9 @@ Musikaliskt har jag bakgrund i klassisk körsång, pop/rock-sång, som kompmusik
 Jag har lärarlegitimation och är behörig att undervisa i musik och kringliggande ämnen.
 
 ## Erfarenhet
+
 ### Kulturama
-*Februari 2024-Nutid*<br>
+*Februari 2024--Nu*<br>
 * Jag är kursledare i piano, främst för nybörjare.
 
 ### Stockholms Estetiska Gymnasium
@@ -17,17 +18,17 @@ Jag har lärarlegitimation och är behörig att undervisa i musik och kringligga
 * Ett kortvarigt vikariat i gehörs- och musiklära och ensemble.
 
 ### Naturhistoriska Riksmuseet
-*Juni 2020-December 2023*<br>
+*Juni 2020--December 2023*<br>
 * Jag jobbade som timanställd museivärd och aktivitetsledare. Jag tog emot besökare till utställningarna, sålde biljetter, bemannade butiken och information och höll visningar om djur och natur i olika utformningar. Jag jobbade även i "Labbet", där besökare i mindre grupper fick komma närmre museets forskning och pröva på aktiviteter kopplade till ett tema.
 
 ### Tekniska museet
-*December 2016-Februari 2020*<br>
+*December 2016--Februari 2020*<br>
 * Jag jobbade som timmanställd museivärd och från 2019 som arbetsledare. Jag tog emot besökare till utställningarna, sålde biljetter, bemannade informationen, höll visningar om bl.a. elektricitet, modelljärnvägen och robotar, lade dagsschema, gjorde kassaavslut m.m.
 
 ## Utbildning
 ### Kungl. Musikhögskolan i Stockholm
 **Ämneslärarprogrammet, 300hp**<br>
-*HT 2018-HT 2023*<br>
+*HT 2018--HT 2023*<br>
 * Jag gick ämneslärarprogrammet med inriktning mot arbete i gymnasieskolan med profil musik- och medieproduktion. Jag tog examen i början av 2024.
 
 ### Stockholms Universitet

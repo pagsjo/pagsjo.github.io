@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Hem"
 layout: splash
 
 header:
