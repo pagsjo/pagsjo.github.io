@@ -170,6 +170,9 @@ footer:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://youtube.com/@pontusagsjomusik"
+    - label: "pontus@pontusagsjo.se"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:pontus@pontusagsjo.se"
 
 
 # Reading Files
