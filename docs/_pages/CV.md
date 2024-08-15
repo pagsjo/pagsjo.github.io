@@ -1,5 +1,5 @@
 ---
-permalink: /CV/
+permalink: /cv/
 title: CV
 ---
 ## Profil
@@ -8,6 +8,10 @@ Musikaliskt har jag bakgrund i klassisk körsång, pop/rock-sång, som kompmusik
 Jag har lärarlegitimation och är behörig att undervisa i musik och kringliggande ämnen.
 
 ## Erfarenhet
+
+### Sandvikskolan
+*Augusti 2024--Nu*
+* Jag vikarierar i musik på Sandvikskolan i Järfälla, årskurs 1--6.
 
 ### Kulturama
 *Februari 2024--Nu*<br>
