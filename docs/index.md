@@ -8,7 +8,7 @@ header:
   overlay_image: ../assets/logo_fisk_banner.png
   actions:
     - label: "CV"
-      url: "/CV/"
+      url: "/cv/"
     - label: "Musik"
       url: "/musik/"
     - label: "Uppdrag"
