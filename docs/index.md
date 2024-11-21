@@ -9,10 +9,8 @@ header:
   actions:
     - label: "CV"
       url: "/cv/"
-    - label: "Musik"
-      url: "/musik/"
-    - label: "Uppdrag"
-      url: "/uppdrag/"
+    - label: "Portfolio"
+      url: "/portfolio/"
     - label: "Kontakt"
       url: "/kontakt/"
 excerpt: "Musiker, musiklärare och musikproducent. <br> Har ett vasst öra och en kärlek för bråkiga instrument. <br> Bra på tekno, rock, pop och experimentell musik. <br> Sjunger och spelar keyboard, bas, gitarr och trummor."
@@ -22,7 +20,7 @@ feature_row:
     alt: "NEON Omslag"
     title: "NEON"
     excerpt: "Solblekt tekno"
-    url: "/musik/neon"
+    url: "/portfolio/neon"
     btn_label: "Läs mer"
     btn_class: "btn--primary btn--small"
 
@@ -30,7 +28,7 @@ feature_row:
     alt: "Verkligt/Overkligt Omslag"
     title: "Verkligt/Overkligt"
     excerpt: "Musiken från min examenskonsert"
-    url: "/musik/verkligtoverkligt"
+    url: "/portfolio/verkligtoverkligt"
     btn_label: "Läs mer"
     btn_class: "btn--primary btn--small"
 
@@ -38,7 +36,7 @@ feature_row:
     alt: "Stereobänk Annons A"
     title: "Stereobänk"
     excerpt: "Demovideo på uppdrag av Sedgelake Audio"
-    url: "/uppdrag/stereobank"
+    url: "/portfolio/stereobank"
     btn_label: "Läs mer"
     btn_class: "btn--primary btn--small"
 ---

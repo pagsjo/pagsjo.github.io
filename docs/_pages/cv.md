@@ -3,8 +3,14 @@ permalink: /cv/
 title: CV
 ---
 ## Profil
-Med en ämneslärarexamen från Kungliga Musikhögskolan och flera års erfarenhet av museiarbete har jag en bred pedagogisk grund. Jag är van talare inför stora och små grupper, har hållit i visningar om både statisk elektricitet och fossil, såväl som undervisat grupper och enskilda elever i instrument, ensemble, musikteori m.m.<br><br>
-Musikaliskt har jag bakgrund i klassisk körsång, pop/rock-sång, som kompmusiker i pop/rock-ensembler, och som producent av främst min egen musik.<br><br>
+Med en ämneslärarexamen från Kungliga Musikhögskolan och flera års erfarenhet av museiarbete har jag en bred pedagogisk grund.
+
+Jag undervisar både grupper och enskilda elever i instrument, sång, ensemble, musikteori m.m.
+
+På museum har jag hållit i visningar om allt från statisk elektricitet och modelltåg till fossil och rovdjur.
+
+Min musikaliska bakgrund ligger i klassisk körsång, pop/rock-sång, som kompmusiker i pop/rock-ensembler, och som producent av främst min egen musik.
+
 Jag har lärarlegitimation och är behörig att undervisa i musik och kringliggande ämnen.
 
 ## Erfarenhet
@@ -15,7 +21,7 @@ Jag har lärarlegitimation och är behörig att undervisa i musik och kringligga
 
 ### Kulturama
 *Februari 2024--Nu*<br>
-* Jag är kursledare i piano, främst för nybörjare.
+* Jag är kursledare i piano, både gruppvis och enskilt.
 
 ### Stockholms Estetiska Gymnasium
 *November 2023*<br>
@@ -27,7 +33,7 @@ Jag har lärarlegitimation och är behörig att undervisa i musik och kringligga
 
 ### Tekniska museet
 *December 2016--Februari 2020*<br>
-* Jag jobbade som timmanställd museivärd och från 2019 som arbetsledare. Jag tog emot besökare till utställningarna, sålde biljetter, bemannade informationen, höll visningar om bl.a. elektricitet, modelljärnvägen och robotar, lade dagsschema, gjorde kassaavslut m.m.
+* Jag jobbade som timanställd museivärd och från 2019 som arbetsledare. Jag tog emot besökare till utställningarna, sålde biljetter, bemannade informationen, höll visningar om bl.a. elektricitet, modelljärnvägen och robotar, lade dagsschema, gjorde kassaavslut m.m.
 
 ## Utbildning
 ### Kungl. Musikhögskolan i Stockholm

@@ -269,6 +269,12 @@ pagination:
     before: 2
     after: 2
 
+# Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path
+
 
 # Plugins (previously gems:)
 plugins:
@@ -347,4 +353,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+      classes: wide
+
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: false
       classes: wide
