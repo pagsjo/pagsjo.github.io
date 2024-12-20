@@ -1,6 +1,6 @@
 ---
 title:  "Verkligt/Overkligt"
-date:   2024-05-26 00:00 +0200
+date:   2024-05-26 12:00 +0200
 categories: release musik
 header:
   teaser: /assets/verkligtoverkligt.png

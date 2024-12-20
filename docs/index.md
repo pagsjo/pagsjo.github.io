@@ -13,7 +13,7 @@ header:
       url: "/portfolio/"
     - label: "Kontakt"
       url: "/kontakt/"
-excerpt: "Musiker, musiklärare och musikproducent. <br> Har ett vasst öra och en kärlek för bråkiga instrument. <br> Bra på tekno, rock, pop och experimentell musik. <br> Sjunger och spelar keyboard, bas, gitarr och trummor."
+excerpt: "Musiker, musiklärare och musikproducent. <br> Har ett vasst öra och en kärlek för bråkiga instrument. <br> Bra på tekno, rock och pop. <br> Sjunger och spelar keyboard, bas, gitarr och trummor."
 
 feature_row:
   - image_path: ../assets/neon.png
