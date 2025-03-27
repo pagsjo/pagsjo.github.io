@@ -1,11 +1,11 @@
 ---
-title: "Hem"
+title: "Pontus Agsjö"
 layout: splash
 
 header:
   overlay_color: "#000"
   overlay_filter: "0.75"
-  overlay_image: ../assets/logo_fisk_banner.png
+  overlay_image: ../assets/logo_fisk_circle.png
   actions:
     - label: "CV"
       url: "/cv/"
@@ -13,7 +13,7 @@ header:
       url: "/portfolio/"
     - label: "Kontakt"
       url: "/kontakt/"
-excerpt: "Musiker, musiklärare och musikproducent. <br> Har ett vasst öra och en kärlek för bråkiga instrument. <br> Bra på tekno, rock och pop. <br> Sjunger och spelar keyboard, bas, gitarr och trummor."
+excerpt: "Musiker, musiklärare och musikproducent."
 
 feature_row:
   - image_path: ../assets/neon.png
