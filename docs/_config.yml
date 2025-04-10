@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name             : "Pontus Agsjö"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/bio_photo.jpg"
   bio              : "Musiker, musiklärare, musikproducent."
   location         : "Stockholm"
   email            : "pontus@pontusagsjo.se"
