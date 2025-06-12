@@ -7,8 +7,6 @@ header:
   overlay_filter: "0.75"
   overlay_image: ../assets/logo_fisk_circle.png
   actions:
-    - label: "CV"
-      url: "/cv/"
     - label: "Portfolio"
       url: "/portfolio/"
     - label: "Kontakt"
