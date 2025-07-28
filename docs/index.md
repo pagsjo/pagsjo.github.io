@@ -2,16 +2,16 @@
 title: "Pontus Agsjö"
 layout: splash
 
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.75"
-  overlay_image: ../assets/logo_fisk_circle.png
-  actions:
-    - label: "Portfolio"
-      url: "/portfolio/"
-    - label: "Kontakt"
-      url: "/kontakt/"
-excerpt: "Musiker, musiklärare och musikproducent."
+# header:
+#   overlay_color: "#000"
+#   overlay_filter: "0.75"
+#   overlay_image: ../assets/logo_fisk_circle.png
+#   actions:
+#     - label: "Portfolio"
+#       url: "/portfolio/"
+#     - label: "Kontakt"
+#       url: "/kontakt/"
+# excerpt: "Musiker, musiklärare och musikproducent."
 
 feature_row:
   - image_path: ../assets/neon.png
@@ -38,5 +38,7 @@ feature_row:
     btn_label: "Läs mer"
     btn_class: "btn--primary btn--small"
 ---
+
+<img src="./assets/logo_fisk_banner.png">
 
 {% include feature_row %}

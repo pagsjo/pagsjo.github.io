@@ -10,4 +10,6 @@ title: Kontakt
 
 <i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram: [@pontusmusik](https://instagram.com/pontusmusik)
 
-<i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn: [Pontus Agsjö](https://www.linkedin.com/in/pontusagsjo)
+<!-- <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn: [Pontus Agsjö](https://www.linkedin.com/in/pontusagsjo) -->
+
+<i class ="fab fa-fw fa-bandcamp" aria-hidden="true"></i> Bandcamp: [Pontus Agsjö](https://pontusagsjo.bandcamp.com)
