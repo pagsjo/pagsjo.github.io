@@ -7,7 +7,7 @@ header:
 excerpt: "Solblekt tekno"
 tags: musik
 ---
-![NEON Omslag](../assets/neon.png){:width="300"}
+![NEON Omslag](/assets/img/omslag/pa/neon.png){:width="300"}
 
 **NEON (2023)**
 1. NEON Pt. 1 (4:08)

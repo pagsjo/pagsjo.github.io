@@ -7,7 +7,7 @@ header:
 excerpt: "Musiken från min examenskonsert"
 tags: musik
 ---
-![Verkligt/Overkligt Omslag](../assets/verkligtoverkligt.png){:width="300"}
+![Verkligt/Overkligt Omslag](/assets/img/omslag/pa/verkligtoverkligt.png){:width="300"}
 
 **Verkligt/Overkligt (2024)**
 1. Dimridå (4:50)
