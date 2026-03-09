@@ -3,7 +3,7 @@ title:  "Stereobänk"
 date:   2023-07-18 12:00 +0200
 categories: uppdrag video musik
 header:
-  teaser: /assets/stereobank_annons_a.jpg
+  teaser: /assets/img/omslag/misc/stereobank_annons_a.jpg
 excerpt: "Demovideo på uppdrag av Sedgelake Audio"
 tags: uppdrag
 collection: portfolio

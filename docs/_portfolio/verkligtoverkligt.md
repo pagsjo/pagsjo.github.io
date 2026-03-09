@@ -3,7 +3,7 @@ title:  "Verkligt/Overkligt"
 date:   2024-05-26 12:00 +0200
 categories: release musik
 header:
-  teaser: /assets/verkligtoverkligt.png
+  teaser: /assets/img/omslag/pa/verkligtoverkligt.png
 excerpt: "Musiken från min examenskonsert"
 tags: musik
 ---

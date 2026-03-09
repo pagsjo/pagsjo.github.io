@@ -11,10 +11,10 @@ layout: splash
 #       url: "/portfolio/"
 #     - label: "Kontakt"
 #       url: "/kontakt/"
-# excerpt: "Musiker, musiklärare och musikproducent."
+# excerpt: "Musiker & musikproducent."
 
 feature_row:
-  - image_path: ../assets/neon.png
+  - image_path: /assets/img/omslag/pa/neon.png
     alt: "NEON Omslag"
     title: "NEON"
     excerpt: "Solblekt tekno"
@@ -22,7 +22,7 @@ feature_row:
     btn_label: "Läs mer"
     btn_class: "btn--primary btn--small"
 
-  - image_path: ../assets/verkligtoverkligt.png
+  - image_path: /assets/img/omslag/pa/verkligtoverkligt.png
     alt: "Verkligt/Overkligt Omslag"
     title: "Verkligt/Overkligt"
     excerpt: "Musiken från min examenskonsert"
@@ -30,7 +30,7 @@ feature_row:
     btn_label: "Läs mer"
     btn_class: "btn--primary btn--small"
 
-  - image_path: ../assets/stereobank_annons_a.jpg
+  - image_path: /assets/img/omslag/misc/stereobank_annons_a.jpg
     alt: "Stereobänk Annons A"
     title: "Stereobänk"
     excerpt: "Demovideo på uppdrag av Sedgelake Audio"
@@ -39,6 +39,6 @@ feature_row:
     btn_class: "btn--primary btn--small"
 ---
 
-<img src="./assets/logo_fisk_banner.png">
+<img src="/assets/img/logo/logo_fisk_banner.png">
 
 {% include feature_row %}

@@ -3,7 +3,7 @@ title:  "NEON"
 date:   2023-12-31 12:00 +0100
 categories: release musik
 header:
-  teaser: /assets/neon.png
+  teaser: /assets/img/omslag/pa/neon.png
 excerpt: "Solblekt tekno"
 tags: musik
 ---
