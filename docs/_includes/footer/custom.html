@@ -1,0 +1,19 @@
+<!-- start custom footer snippets -->
+
+<audio id="magisound" src="/assets/snd/magisound.mp3" preload="auto"></audio>
+
+<button id="playMagi" style="float: right;border: 0px;box-shadow: none;background-color: transparent;outline: none;">
+	<img src="/assets/img/logo/logo_fisk_trans.png" width="100">
+</button>
+
+<script>
+	const button = document.getElementById("playMagi");
+	const audio = document.getElementById("magisound")
+
+	button.addEventListener("click", function() {
+		audio.play();
+	}
+);
+</script>
+
+<!-- end custom footer snippets -->
