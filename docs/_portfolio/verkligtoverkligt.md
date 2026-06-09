@@ -16,4 +16,4 @@ tags: musik
 
 <small>© & ℗ 2024 Pontus Agsjö</small>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3CZOGd4iHoArYD18gGrOqY?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1287151934/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://pontusagsjo.bandcamp.com/album/verkligt-overkligt">Verkligt/Overkligt by Pontus Agsjö</a></iframe>

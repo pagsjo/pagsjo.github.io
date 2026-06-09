@@ -15,5 +15,4 @@ tags: musik
 
 <small>© & ℗ 2023 Pontus Agsjö</small>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0J8jHKH3l0zbUV6FPS5tLd?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3519351275/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://pontusagsjo.bandcamp.com/album/neon">NEON by Pontus Agsjö</a></iframe>
